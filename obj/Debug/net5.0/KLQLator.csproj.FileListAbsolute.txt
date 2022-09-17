@@ -1,0 +1,15 @@
+C:\Users\NicoF\source\repos\KLQLator\bin\Debug\net5.0\KLQLator.exe
+C:\Users\NicoF\source\repos\KLQLator\bin\Debug\net5.0\KLQLator.deps.json
+C:\Users\NicoF\source\repos\KLQLator\bin\Debug\net5.0\KLQLator.runtimeconfig.json
+C:\Users\NicoF\source\repos\KLQLator\bin\Debug\net5.0\KLQLator.runtimeconfig.dev.json
+C:\Users\NicoF\source\repos\KLQLator\bin\Debug\net5.0\KLQLator.dll
+C:\Users\NicoF\source\repos\KLQLator\bin\Debug\net5.0\ref\KLQLator.dll
+C:\Users\NicoF\source\repos\KLQLator\bin\Debug\net5.0\KLQLator.pdb
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\KLQLator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\KLQLator.AssemblyInfoInputs.cache
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\KLQLator.AssemblyInfo.cs
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\KLQLator.csproj.CoreCompileInputs.cache
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\KLQLator.dll
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\ref\KLQLator.dll
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\KLQLator.pdb
+C:\Users\NicoF\source\repos\KLQLator\obj\Debug\net5.0\KLQLator.genruntimeconfig.cache
