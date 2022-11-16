@@ -15,7 +15,6 @@ data$Card_Category<-as.factor(data$Card_Category1)
 library(dplyr)
 summary(data)
 count(data, Education_Level)
-FrecAbsolutas <- table(data$Education_Level)
 
 
 library(janitor)
