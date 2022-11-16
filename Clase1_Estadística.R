@@ -10,6 +10,7 @@ data$Dependent_count <- as.factor(data$Dependent_count)
 data$Marital_Status<-as.factor(data$Marital_Status)
 data$Income_Category<-as.factor(data$Income_Category)
 data$Card_Category<-as.factor(data$Card_Category)
+data$Card_Category<-as.factor(data$Card_Category1)
 
 library(dplyr)
 summary(data)
